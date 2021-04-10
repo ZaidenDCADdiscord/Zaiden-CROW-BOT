@@ -1,0 +1,52 @@
+{
+    "--------------------------------------------------" : "Identité",
+
+    "nom": "Zaiden'Crow BOT",
+    "licenceImage": "[]()",
+    "hebergement": "[hebergement](lien)",
+
+    "prefixconfig": "+",
+    "token": "ODMwMTA4ODA3Mjc4ODg2OTYy.YHB5Eg.ysm_87WNVAfDVryrvgf2tU6cZfA",
+
+    "-------------------------------------------------" : "Serveur",
+
+    "guild": "Zaiden'Crow Support",
+    "guildImage": "https://media.discordapp.net/attachments/830368306979536896/830398946558869524/image0.jpg?width=852&height=479",
+
+    "invitation": "9pQ9EA4KNa",
+    "modchannelid": "830399683653795850",
+    "modchannelbisid": "830399683653795850",
+    "genchannelid": "830386895095201822",
+
+    "------------------------------------------------" : "Services",
+
+    "ynInvitation": 1,
+    "ynRaid": 1,
+    "ynPseudo": 1,
+    "ynStatut": 1,  
+    "ynAide": 1,
+    "ynInfo": 1,
+    "ynPing": 1,
+    "ynClear": 1,
+    "ynStop": 1,
+    "ynConfig": 1,
+    "ynLock": 1,
+    "ynVerif": 1,
+
+    "-----------------------" : "Raid",
+
+    "raidon": 2,
+    "raiddelais": -100,
+    "raiddelaisH": "une minute",
+
+    "------------------------" : "Pseudo",
+
+    "pseudointerdit": ["mot", "interdit"],
+
+    "-------------------------" : "Vérification",
+
+    "idWikiAuthBot" : "id",
+    "verifRole": "id",
+    "channelAuth" : "id"
+
+}
